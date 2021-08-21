@@ -1,0 +1,33 @@
+newmtl Preview:1
+Ns 50
+Ka 0 0 0
+Kd 0.070864 0.611835 0.771661
+Ks 0.0844447 0.0292245 0.049971
+d 1
+newmtl Frame:1
+Ns 10
+Ka 0 0 0
+Kd 0.180392 0.180392 0.180392
+Ks 0.6 0.6 0.6
+d 1
+newmtl LEDs:1
+Ns 1
+Ka 0.996078 0.992157 0.992157
+Kd 0 0 0
+Ks 0 0 0
+map_Kd C:\Users\habat\OneDrive\Desktop\3D Studio\Libraries\Props\Puttron Scroll Player\Scrolling LED Diffuse.png
+map_Bump C:\Users\habat\OneDrive\Desktop\3D Studio\Libraries\Props\Puttron Scroll Player\Scrolling LED Diffuse.png
+d 1
+map_d C:\Users\habat\OneDrive\Desktop\3D Studio\Libraries\Props\Puttron Scroll Player\Scrolling LED Diffuse.png
+newmtl Preview:2
+Ns 50
+Ka 0 0 0
+Kd 0.910184 0.355876 0.431471
+Ks 0.146745 0.0877041 0.0786218
+d 1
+newmtl Text:2
+Ns 1
+Ka 0.976471 0.972549 0.992157
+Kd 0.976471 0.972549 0.992157
+Ks 0.0313726 0.027451 0.0823529
+d 1
